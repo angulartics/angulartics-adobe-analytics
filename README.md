@@ -1,6 +1,6 @@
 ## angulartics-adobe-analytics
 
-[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Bower version][bower-image]][bower-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url]
+[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Bower version][bower-image]][bower-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url] [![Join the Slack chat][slack-image]][slack-url]
 
 Adobe Analytics plugin for [Angulartics](http://github.com/luisfarzati/angulartics).
 
@@ -77,3 +77,6 @@ npm run build
 [dep-status-url]: https://david-dm.org/angulartics/angulartics-adobe-analytics
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: LICENSE
+[slack-image]: https://angulartics.herokuapp.com/badge.svg
+[slack-url]: https://angulartics.herokuapp.com
+
