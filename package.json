@@ -1,0 +1,42 @@
+{
+  "name": "angulartics-adobe-analytics",
+  "version": "0.1.0",
+  "description": "Adobe Analytics plugin for Angulartics",
+  "keywords": [
+    "adobe",
+    "analytics",
+    "omniture",
+    "sitecatalyst",
+    "plugin",
+    "angular",
+    "angulartics"
+  ],
+  "author": "ajayk <ajaykemparaj@gmail.com> (https://github.com/ajayk)",
+  "contributors": [
+    "Simon Morvan <garphy@zone84.net> (https://github.com/morvans)",
+    "Wolfram Sokollek <superheroiccoding@users.noreply.github.com> (https://github.com/SuperheroicCoding)",
+    "Tim Elfelt <timelf123@gmail.com> (https://github.com/timelf123)",
+    "Alexis Martin <alexis.yj@gmail.com> (https://github.com/alexismartin)",
+    "Luis Farzati <lfarzati@gmail.com> (https://github.com/luisfarzati)"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "clean": "rm -rf dist",
+    "prebuild": "npm run clean",
+    "build": "mkdir -p dist && uglifyjs lib/angulartics-adobe-analytics.js --compress --source-map dist/angulartics-adobe-analytics.min.js.map --source-map-root .. --source-map-url ../dist/angulartics-adobe-analytics.min.js.map -o dist/angulartics-adobe-analytics.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angulartics/angulartics-adobe-analytics"
+  },
+  "bugs": {
+    "url": "https://github.com/angulartics/angulartics-adobe-analytics/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "angulartics": "~0.18.0"
+  },
+  "devDependencies": {
+    "uglify-js": "^2.4.23"
+  }
+}
