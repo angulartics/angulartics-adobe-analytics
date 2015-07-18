@@ -5,7 +5,7 @@
 Adobe Analytics plugin for [Angulartics](http://github.com/luisfarzati/angulartics).
 
 ## Important Note
-This plugin has no maintainers at the moment. If you use Adobe Analytics and want to contribute with code/documentation/examples and become an active maintainer of this project, please [let us know](https://github.com/angulartics/angulartics-google-analytics/issues/new?title=I+want+to+join+as+contributor).
+This plugin has no maintainers at the moment. If you use Adobe Analytics and want to contribute with code/documentation/examples and become an active maintainer of this project, please [let us know](https://github.com/angulartics/angulartics-adobe-analytics/issues/new?title=I+want+to+join+as+contributor).
 
 ## Install
 
