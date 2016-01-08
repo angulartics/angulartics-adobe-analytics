@@ -1,11 +1,11 @@
 ## angulartics-adobe-analytics
 
-[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Bower version][bower-image]][bower-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url] [![Join the Slack chat][slack-image]][slack-url]
+[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Bower version][bower-image]][bower-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url] [![Gitter Chat][gitter-image]][gitter-url]
 
 Adobe Analytics plugin for [Angulartics](http://github.com/luisfarzati/angulartics).
 
-## Important Note
-This plugin has no maintainers at the moment. If you use Adobe Analytics and want to contribute with code/documentation/examples and become an active maintainer of this project, please [let us know](https://github.com/angulartics/angulartics-adobe-analytics/issues/new?title=I+want+to+join+as+maintainer).
+## Contributing
+If you use Adobe Analytics and want to contribute with code/documentation/examples and become an active maintainer of this project, please submit a pull request or open an issue.
 
 ## Install
 
@@ -77,6 +77,5 @@ npm run build
 [dep-status-url]: https://david-dm.org/angulartics/angulartics-adobe-analytics
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: LICENSE
-[slack-image]: https://angulartics.herokuapp.com/badge.svg
-[slack-url]: https://angulartics.herokuapp.com
-
+[gitter-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg
+[gitter-url]: https://gitter.im/angulartics
