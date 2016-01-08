@@ -1,6 +1,6 @@
 {
   "name": "angulartics-adobe-analytics",
-  "version": "0.1.1",
+  "version": "1.0.2",
   "description": "Adobe Analytics plugin for Angulartics",
   "keywords": [
     "adobe",
@@ -17,7 +17,8 @@
     "Wolfram Sokollek <superheroiccoding@users.noreply.github.com> (https://github.com/SuperheroicCoding)",
     "Tim Elfelt <timelf123@gmail.com> (https://github.com/timelf123)",
     "Alexis Martin <alexis.yj@gmail.com> (https://github.com/alexismartin)",
-    "Luis Farzati <lfarzati@gmail.com> (https://github.com/luisfarzati)"
+    "Luis Farzati <lfarzati@gmail.com> (https://github.com/luisfarzati)",
+    "Charlie Brown <carbonrobot@gmail.com> (https://github.com/carbonrobot)"
   ],
   "main": "lib/index.js",
   "scripts": {
@@ -34,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "angulartics": "~0.20"
+    "angulartics": "^1.0.2"
   },
   "devDependencies": {
     "uglify-js": "^2.4.23"

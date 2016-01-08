@@ -2,7 +2,7 @@
   "name": "angulartics-adobe-analytics",
   "main": "./dist/angulartics-adobe-analytics.min.js",
   "dependencies": {
-    "angulartics": "~0.20"
+    "angulartics": "*"
   },
   "ignore": [
     "**/.*",
