@@ -34,8 +34,8 @@
     "url": "https://github.com/angulartics/angulartics-adobe-analytics/issues"
   },
   "license": "MIT",
-  "dependencies": {
-    "angulartics": "^1.0.2"
+  "peerDependencies": {
+    "angulartics": "^1.0.3"
   },
   "devDependencies": {
     "uglify-js": "^2.4.23"
